@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    margin: auto;
+    width: 90%;
+    padding: 15px;
+}
+
+/* Centers the header*/
+.header {
+    text-align: center;
+}
+
+/* Customizes the sections*/
+.header, .skills, .education, .experience, .awards, .language-skills {
+    padding: 15px;
+}
